@@ -1,0 +1,6 @@
+Makefile
+*.o
+screenfile.txt
+test.jpg
+.DS_Store
+.vscode/
