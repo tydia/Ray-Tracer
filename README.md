@@ -15,3 +15,4 @@ Make sure you have the `pic` library compiled. Then in RayTracer folder, type `m
 - Anti-aliasing: done by supersampling rays with a factor of three. The final color of a output pixel is taken as the average of the 9 of its coresponding pixels in the supersampled ray-traced image. To use anti-aliasing, you should have 4th input argument typed as "AA_ON". i.e. `./RayTracer test.scene test.jpg AA_ON`
 
 ## Demos
+See `demos` directory.
